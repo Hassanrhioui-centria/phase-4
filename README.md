@@ -8,7 +8,7 @@ The Habit Tracker is a web-based application designed to help users build and ma
 
 Use Case Summary
 
-| | | Demonstration / 
+Demonstration  
 
 Use Case                     	Implemented (Yes/No)		Notes                                                                 
 User views their habits       	Yes                  	 Habits are displayed on the Home page with categories and progress indicators.        
